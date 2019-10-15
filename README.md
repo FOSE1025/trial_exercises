@@ -31,7 +31,10 @@ https://docs.google.com/spreadsheets/d/12NoKe86tCH3OZTeqxRNCwRQ5u1ygbfXwXYnqgC6g
 
 Below is a description of the data set from https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/
 
-    Couple of messy but easy data sets: NYC parents reporting their kids’ scores on the gifted and talented exam, as well as school priority ranking. Some enter the percentiles as point scores, some skip all together, no standard preference format, etc. Also birth quarter affects percentiles.
+    Couple of messy but easy data sets: NYC parents reporting their kids’ scores 
+    on the gifted and talented exam, as well as school priority ranking. Some 
+    enter the percentiles as point scores, some skip all together, no standard 
+    preference format, etc. Also birth quarter affects percentiles.
 
 ## 3. Data transformation
 
@@ -49,9 +52,13 @@ https://www.kaggle.com/sanjayroberts1/exploratory-data-analysis-and-clean-up
 
 Below is a quick description of the data and issues related to it, from https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/ (typos not fixed)
 
-    It’s covers hourly weather data from 122 weathers stations of southeast region (Brazil). The southeast include the states of Rio de Janeiro, São Paulo, Minas Gerais e Espirito Santo. Dataset Source: INMET (National Meteorological Institute – Brazil).
+    It’s covers hourly weather data from 122 weathers stations of southeast
+    region (Brazil). The southeast include the states of Rio de Janeiro, São 
+    Paulo, Minas Gerais e Espirito Santo. Dataset Source: INMET (National 
+    Meteorological Institute – Brazil).
 
-    Issues: Can you predict the amount of rain? Temperature? NOTE: Not all weather stations started operating since 2000
+    Issues: Can you predict the amount of rain? Temperature? NOTE: Not all 
+    weather stations started operating since 2000
 
 Many of the tasks described here are probably too advanced for a first-year unit, and they would not be doable with Excel anyway. But if MATLAB can do them reasonably easily and without requiring a background in programming we might incorporate the tasks in the curriculum of the unit.
 
