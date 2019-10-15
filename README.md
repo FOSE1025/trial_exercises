@@ -43,7 +43,7 @@ The following link points to a data set of weather recordings in a region of Bra
 
 https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
 
-However, the data needs to be cleaned and normalise in several ways. For example, this Kaggle kernel uses Python to clean the data and do some exploratory analysis. Try do to the same. 
+However, the data needs to be cleaned and normalised in several ways. For example, this Kaggle kernel uses Python to clean the data and do some exploratory analysis. Try do to the same. 
 
 https://www.kaggle.com/sanjayroberts1/exploratory-data-analysis-and-clean-up
 
